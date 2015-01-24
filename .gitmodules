@@ -4,3 +4,6 @@
 [submodule "cron-git-scripts"]
 	path = cron-git-scripts
 	url = https://github.com/ershov-ilya/cron-git-scripts.git
+[submodule "Git.php"]
+	path = Git.php
+	url = git@github.com:kbjr/Git.php.git
