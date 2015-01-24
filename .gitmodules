@@ -1,0 +1,6 @@
+[submodule "hashes"]
+	path = hashes
+	url = https://github.com/ershov-ilya/hashes.git
+[submodule "cron-git-scripts"]
+	path = cron-git-scripts
+	url = https://github.com/ershov-ilya/cron-git-scripts.git
